@@ -30,3 +30,9 @@ WHY?
 ![alt text](image-6.png)
 
 ---
+
+## YT RECORDING
+
+[![Video](https://img.youtube.com/vi/m2gK5unZpuQ/0.jpg)](https://youtu.be/m2gK5unZpuQ)
+
+---

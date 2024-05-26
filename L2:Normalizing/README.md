@@ -22,5 +22,10 @@
 
 ![alt text](image-4.png)
 
+---
+
+## YT RECORDING
+
+[![Video](https://img.youtube.com/vi/H0_tQ6NdXNw/0.jpg)](https://youtu.be/H0_tQ6NdXNw)
 
 ---
